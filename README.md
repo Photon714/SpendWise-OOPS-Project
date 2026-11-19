@@ -5,7 +5,7 @@
 
 Built as the mini project for **CSL202: Introduction to Object Oriented Programming**.
 
-> Author: [Your Name] · [Roll No.] · [Branch], IIIT Nagpur
+> Author: Namesh
 
 ## Features
 
